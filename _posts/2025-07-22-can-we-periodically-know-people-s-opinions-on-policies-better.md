@@ -15,7 +15,7 @@ it wasn't just a loss; it was a fundamental misreading of the political environm
 
 ## phase 1: the obvious, party-internal fix
 
-my first thought, which i explored in a long back-and-forth with an ai, was to fix the problem from within the party structure itself. it seemed logical. if the fdp leadership didn't know what their members wanted, then we should *make* them ask.
+my first thought, which i explored in a long back-and-forth with Claude, was to fix the problem from within the party structure itself. it seemed logical. if the fdp leadership didn't know what their members wanted, then we should *make* them ask.
 
 the idea started to take shape: a mandatory, state-funded "internal party consultation." this wouldn't be a suggestion; it would be a legal requirement. every few months, parties would have to poll their registered members on key policy stances using simple tools, maybe even just checkboxes on major issues. this would create a permanent, formal check on elite decision-making. no longer could a leader like christian lindner *assume* he had the backing of his base for a high-stakes gamble; he'd have the data to prove it or disprove it. it felt like a clean, direct solution to force parties to stay in sync with their own grassroots. it would be institutionalized internal democracy.
 
