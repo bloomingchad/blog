@@ -167,21 +167,41 @@ elite disconnect.
 ## flaws
 
 this could actually go tits up:
-  - to find time in their daily lives, to open a app,
-    and to fill out a long text wall above a policy, its like youtube likes and dislikes.
 
-    people dont like a video beacuse its good, they like it beacuse its great, 
-    thus those two buttons are the extreme reactions, and you see that high for a shitty apology video.
+### 1) you expect middle ground people to vote
+  to find time in their daily lives, to open a app,
+  and to fill out a long text wall above a policy, its like youtube likes and dislikes.
 
-    this will become a platform for extreme peoples. thats bad.
+  people dont like a video beacuse its good, they like it beacuse its great, 
+  thus those two buttons are the extreme reactions, and you see that high for a shitty apology video.
+
+  this will become a platform for extreme peoples. thats bad.
     
-    *suggestion*: 
-      - run huge democratic feel-good masturbatory campaign.
-      - make all citizens register, probably younger.
-      - from a subset random selection of those registered people are invited to participate.
- 
-    this is still a subset, it doesnt really solve the problem.
+### shuffle the cards:
+  - run huge democratic feel-good masturbatory campaign.
+  - make all citizens register, probably mostly younger.
+  - use official mail, "citizen you have been selected for this quarter policy opinion polling",
+    like a jury summon 
+  - from a subset random selection of those registered people are invited to participate.
+
+   this is still a subset, it doesnt really solve the problem.
+  
+### give them candies:
+  - €20 vouchers
+  - free tea coffee cookies
+  - admission to a lottery.
+
+### make them cooperate
+  - split each to 50 people groups. 
+  - make them do some form of social work together. like picking trash or cleaning.
+  - make them normalize? and then the extreme emotions hopefully calm down
+  - they will get time to know each other more?
+  - *bad thing*:
+      - could work the other way, the charismatic person, if extremist, polarize others.
+
+
 ---
+
 > this is a draft capturing my thought process. it started as a narrow fix and evolved.
 probably many practical details to figure out, but the core concept feels stronger and
 more robust than where i began.
